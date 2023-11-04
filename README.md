@@ -22,11 +22,12 @@ Remember to run `requirements.txt` first for library updating.
 
 1. Clone the repo locally.
 2. Run `requirements.txt`
+
 `bash` 
 
     pip install -r requirements.txt
 
-3. Run main.py
+4. Run main.py
 
 The app will be hosted over http://localhost:5000
 
